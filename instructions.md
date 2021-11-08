@@ -27,4 +27,12 @@
 
 **Переход к выбранной версии репозитория**
 
-**git checkout
+* git checkout
+****
+
+**Команды для вызова информации**
+
+* git log
+* git diff
+* git status
+* git help  
